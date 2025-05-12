@@ -1,5 +1,5 @@
 import React from 'react'
-import "./card.css"
+import "./Card.css"
 import mern from "../../assets/mern.png"
 function Card({title,image}) {
   return (
